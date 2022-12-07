@@ -98,14 +98,14 @@
 	<distributionManagement>
 	    <repository>
 	      <id>nexus</id>
-	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://44.201.211.49:8081/repository/TD_release/</url>
+	      <name>tengy Releases Nexus Repository</name>
+	      <url>http://3.238.235.211:8081/repository/tengy-fe-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://44.201.211.49:8081/repository/TD_snapshot/</url>
+	      <name>tengy Snapshot Nexus Repository </name>
+	      <url>http://3.238.235.211:8081/repository/tengy-fe-snapshots/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
